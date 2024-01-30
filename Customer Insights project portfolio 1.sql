@@ -173,7 +173,6 @@ from cte1)
 select country_name, no_of_orders
 from cte2 where drnk=1;
 
--- Q10 What is the average age of customers who made orders in the 'vitamins' product category?
 
 
 
